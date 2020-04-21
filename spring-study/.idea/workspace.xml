@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d074a2-0fbc-45fb-8467-09ba2f0ea4e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2BSXJikB7L9C58bNtuKPYO2NV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com.z" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.z.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea工程目录\spring-study\spring_AutoworedAnno\src\main\resources" />
+      <recent name="D:\idea工程目录\spring-study\spring_AutoworedAnno\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.test1">
+    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="spring_aop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="spring_javaconfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="spring_di" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_Autowired" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test1" />
+        <item itemvalue="Application.MyTest (2)" />
+        <item itemvalue="Application.MyTest (1)" />
+        <item itemvalue="Application.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d074a2-0fbc-45fb-8467-09ba2f0ea4e2" name="Default Changelist" comment="" />
+      <created>1585923808393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585923808393</updated>
+      <workItem from="1585923813106" duration="2812000" />
+      <workItem from="1585966291087" duration="16471000" />
+      <workItem from="1586090685076" duration="6647000" />
+      <workItem from="1586310220862" duration="904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="141" key="#Inspections" timestamp="1585967770366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="141" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585967770366" />
+    <state x="85" y="73" key="#Project_Structure" timestamp="1586093969115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="85" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586093969115" />
+    <state x="0" y="198" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585924641338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="198" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585924641338" />
+    <state x="1" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1586093925464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586093925464" />
+    <state x="631" y="254" key="FileChooserDialogImpl" timestamp="1586310247071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="254" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586310247071" />
+    <state width="912" height="178" key="GridCell.Tab.0.bottom" timestamp="1586097354955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586097354955" />
+    <state width="912" height="178" key="GridCell.Tab.0.center" timestamp="1586097354955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586097354955" />
+    <state width="912" height="178" key="GridCell.Tab.0.left" timestamp="1586097354954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586097354954" />
+    <state width="912" height="178" key="GridCell.Tab.0.right" timestamp="1586097354955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="912" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586097354955" />
+    <state x="114" y="63" width="1038" height="707" key="SettingsEditor" timestamp="1586094568007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="63" width="1038" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586094568007" />
+    <state x="594" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1586310220937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="594" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586310220937" />
+    <state x="178" y="126" key="new project wizard" timestamp="1586310702964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="126" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586310702964" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585987659377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585987659377" />
+    <state x="184" y="98" key="spring file set editor" timestamp="1586095754867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="184" y="98" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1586095754867" />
+  </component>
+</project>

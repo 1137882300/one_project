@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          https://www.springframework.org/schema/beans/spring-beans.xsd
+          http://www.springframework.org/schema/aop
+          https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="cat" class="com.z.pojo.com.z.pojo.Cat"/>
+    <bean id="dog" class="com.z.pojo.com.z.pojo.Dog"/>
+
+    <!--
+    byName: 会自动在容器上下文中查找和自己对象set方法后面的值对应的beanId
+    byType: 会自动在容器上下文中查找和自己对象属性类型相同的bean
+    -->
+
+    <bean id="people" class="com.z.pojo.com.z.pojo.People" >
+        <property name="name" value="傻狗啊"/>
+        <property name="cat" ref="cat"/>
+        <property name="dog" ref="dog"/>
+    </bean>
+
+
+
+
+</beans>
